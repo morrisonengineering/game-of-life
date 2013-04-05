@@ -9,7 +9,7 @@ public class Grid {
     private static final int DEFAULT_COLUMN_COUNT = 3;
 
     private Cell[][] cells;
-
+	// Dummy comment
 
     private GridReader gridReader = new GridReader();
     private GridWriter gridWriter = new GridWriter();
